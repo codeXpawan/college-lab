@@ -1,5 +1,3 @@
-
-
 def display(board):
     for row in board:
         print(row)
